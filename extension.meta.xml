@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension id="admin_css_override" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+<extension id="admin_css_override_print" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Admin CSS Override Print</name>
 	<description>This extension allows to override Symphony's Admin CSS @media PRINT styles by additional CSS rules. It simply appends a custom stylesheet to the head of admin pages.</description>
 	<repo type="github">https://github.com/wjn/admin_css_override_print.git</repo>
