@@ -1,1 +1,21 @@
-@import print url("/workspace/assets/css/admin_css_override.css");
+
+#wrapper header#header,
+#wrapper #context,
+#wrapper #context #breadcrumbs,
+#wrapper #context .actions,
+#wrapper #context .tabs,
+#wrapper #contents .field-html_panel > span,
+#wrapper #contents .actions,
+#wrapper #contents .tab-group,
+.no-print
+{
+	display:none;
+}
+#wrapper #contents .tab-group-selected
+{
+    display:block;
+}
+
+#wrapper #contents fieldset{
+    border:0;
+}
