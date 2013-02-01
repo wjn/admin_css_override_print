@@ -1,3 +1,4 @@
+@import print url("/workspace/assets/css/admin_css_override_print.css");
 
 #wrapper header#header,
 #wrapper #context,
@@ -19,3 +20,4 @@
 #wrapper #contents fieldset{
     border:0;
 }
+
